@@ -1,0 +1,12 @@
+pywin32
+wmi
+requests
+timestring
+aes-everywhere
+pycryptodome
+rich
+pyautoit
+pytesseract
+psutil
+pynput
+numpy
