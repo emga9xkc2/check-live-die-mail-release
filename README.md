@@ -12,4 +12,4 @@ https://github.com/emga9xkc2/check-live-die-mail-release/archive/refs/heads/main
 
 <b>4. Thông tin phiên bản</b>
 
-- v1.4
+- v1.5
