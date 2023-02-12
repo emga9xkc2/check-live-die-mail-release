@@ -10,4 +10,4 @@ pytesseract
 psutil
 pynput
 numpy
-customtkinter
+customtkinter==3.11
